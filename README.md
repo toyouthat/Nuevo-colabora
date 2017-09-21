@@ -1,7 +1,7 @@
 # COLABORANDO CURSO 
 ## iniciando el curso colaborando en git
-Primer proyecto git curso 2017
-> el mayor que es el simbolo crea una cita
+Primer proyecto git curso 2017 Colaborando
+> Colaborando el mayor que es el simbolo crea una cita
 - hacer listas de elementos signos - + *
     - anidados hacemos una tabulación
     - anidamos con tabulador y signo -
